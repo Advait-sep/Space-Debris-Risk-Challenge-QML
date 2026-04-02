@@ -38,8 +38,8 @@ The dataset consists of:
   - `2` → High Risk  
 
 Dataset files:
-train.csv
-test.csv
+'train.csv' and 
+'test.csv'
 
 ---
 
@@ -81,7 +81,7 @@ These metrics ensure fair evaluation across all classes.
 ## 📄 Output
 
 At the end of the experiment, a file named:
-predictions.csv
+'predictions.csv'
 is generated.
 
 This file contains a **comparison between predictions** from:
